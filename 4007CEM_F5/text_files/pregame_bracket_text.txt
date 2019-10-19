@@ -1,0 +1,19 @@
+                     ______  __   __  _____      ____    __   __  _____  __   
+                    |__  __||  |_|  ||  ___|    |  _ \  |  | |  ||  ___||  |
+                      |  |  |   _   ||  ___|    | |_| | |  |_|  ||  ___||  |__
+                      |__|  |__| |__||_____|    |____/  |_______||_____||_____|
+
+All contestants are initially sorted into 2 groups that play 6 games each, depending
+on your performance will be placed into either the lower or the higher bracket in the
+playoffs.
+                      
+Feel free to also access the shop for items to use in battle and new moves to teach
+your creeps, changing up the way you play
+
+You can access this screen after each battle by selecting it from the menu,
+so be sure to check your place to know where you stand
+
+
+
+
+
